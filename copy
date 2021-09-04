@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp markdown.css markdown-pdf.css
